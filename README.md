@@ -10,7 +10,3 @@ In this project, I conducted product analysis using Python, accomplishing the fo
 The uploaded file of the report could be found [in here](https://github.com/TuringCollegeSubmissions/lsutka-Python-DA.1.12/blob/main/Product%20Analysis%20using%20Python.ipynb)
 
 The Interactive Report in Google colab can be accessed [in here](https://colab.research.google.com/drive/1xkTRk9aaoRZTudEF3EwYnhlqvjfqTekL?usp=sharing)
-
-If you have any questions about the report of accesing the report, please do not hesitate to write me on Discord :)
-
-*Note: Google Colab link was added for have more intereactivity with maps as they are not properly generated in the added file*
